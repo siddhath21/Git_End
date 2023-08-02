@@ -111,6 +111,6 @@ int main() {
 
         if(x=='n'||x=='N') exit(0);
     } while (x == 'y' || x == 'Y');
-
+    cout<<" Thanks for using our services "<<endl;
     return 0;
 }
